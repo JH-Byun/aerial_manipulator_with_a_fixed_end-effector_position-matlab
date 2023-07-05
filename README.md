@@ -1,6 +1,6 @@
 # Aerial manipulator with a fixed end-effector position: MATLAB simulation
 ## Overview
-<p align="center"><img src="aerial_manipulator_2.PNG" width="400" height="338.5"><img src="ICCAS2021_JHByun.gif" width="400" height="338.5">
+<p align="center"><img src="aerial_manipulator_2.PNG" width="350" height="296"><img src="ICCAS2021_JHByun.gif" width="350" height="296">
   
 This repository contains the MATLAB simulation for aerial manipuator with a fixed end-effector position (i.e., plug-pulling aerial manipulator) presented in [<a href="https://ieeexplore.ieee.org/abstract/document/9649773">2021, ICCAS, Byun</a>]. The aerial manipulator which is configured with a quad-rotor and a 2-DOF robotic manipulator with a gripper try to pull the plug out of the socket by tilting its body. The results of the simulation can be visualized with various plots and a simple 3D animation video.
 
