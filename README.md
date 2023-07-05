@@ -1,1 +1,1 @@
-# aerial_manipulator_with_a_fixed_end-effector_position-matlab
+# Aerial manipulator with a fixed end-effector position: MATLAB simulation
