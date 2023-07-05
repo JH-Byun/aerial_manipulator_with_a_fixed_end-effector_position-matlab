@@ -8,12 +8,9 @@ This repository contains the MATLAB simulation for the plug-pulling task using a
 ### Installation
 1. Clone this repository into your MATLAB workspace.  
 ```sh
-git clone github.com/JH-Byun/AM_plug_task_matlab.git
+git clone github.com/JH-Byun/aerial_manipulator_with_a_fixed_end-effector_position-matlab.git
 ```
-2. Checkout to the "ICRA2022" branch
-```sh
-git checkout ICRA2022
-```
+
 ### Execution
 1. After referring to the detailed descriptions below, click on the desired main file.
 2. Execute the **1st, 3rd, 4th, 5th, 6th** block of the main file. All the simulation results will be produced. (**Caution**: Do not run this file all in one step (ex. pressing F5 button))
