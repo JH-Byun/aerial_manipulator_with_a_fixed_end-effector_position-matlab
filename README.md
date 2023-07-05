@@ -12,7 +12,7 @@ git clone github.com/JH-Byun/aerial_manipulator_with_a_fixed_end-effector_positi
 ```
 
 ### Execution
-1. Double click on main.m file.
+1. Double click on ***main.m*** file in ***aerial_manipulator_8dor*** folder.
 2. If you want to watch the resultant video, please set the parameter named **animation_view** to true.
 3. Execute the simulation by press "F5" button.
   
