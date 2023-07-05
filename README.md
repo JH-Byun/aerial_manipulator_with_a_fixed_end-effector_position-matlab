@@ -71,3 +71,6 @@ git clone github.com/JH-Byun/aerial_manipulator_with_a_fixed_end-effector_positi
 **6. result_plots**: contains the result plots from the simulation.
   
 **7. controller**
+
+### Reference
+[1] Byun, Jeonghyun, and H. Jin Kim. "Robust Control of the Aerial Manipulator with a Fixed End-effector Position." 2021 21st International Conference on Control, Automation and Systems (ICCAS). IEEE, 2021.
